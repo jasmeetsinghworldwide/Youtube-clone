@@ -22,6 +22,7 @@ This platform includes a variety of video components, such as:
 This platform is designed to help you with career building. 
 
 Thank you for visiting my GitHub and checking out my YouTube mod for engineers.
+This project was completed in SEPTEMBER 2023.
 
 
 GITHUB LINK: "
